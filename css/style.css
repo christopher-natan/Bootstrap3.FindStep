@@ -1,0 +1,370 @@
+/**
+ * Copyright (c) CMNWorks
+ *
+ * Licensed under The MIT License
+ * For full copyright and license information, please see the LICENSE.txt
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright (c) CMNWorks Christopher M. Natan
+ * @author        Christopher M. Natan
+ * @link          http://cmnworks.com
+ * @license       http://www.opensource.org/licenses/mit-license.php MIT License
+ */
+ 
+@import url(//fonts.googleapis.com/css?family=Great+Vibes);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300,400,600,800);
+html, body {
+	height: 100%;
+}
+body {
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	line-height: 22px;
+	color: #444;
+	margin: 0;
+	padding: 88px 0 0;
+}
+strong {
+    font-family: "Great Vibes",cursive;
+    font-size: 32px;
+	font-weight:300
+}
+a,a:active, a:visited,  a:focus { outline:none !important; text-decoration:none;}
+ul li { line-height:26px;}
+ul.ul-simple { list-style:none; padding-left:5px}
+p { font-weight:300}
+.margin-default { margin-top:85px}
+.badge { vertical-align:top; font-weight:normal}
+hr.divider { margin:0}
+.row-fluid img { width:100%}
+/* heading */
+h1, h2, h3, h4, h5, h6, legend {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+	margin: 0;
+	color: #222;
+}
+h1.title { font-size:51px}
+h2.sub-title { font-size:21px; margin:10px 0}
+h2.main-title { font-size:19px !important; font-weight:300; }
+.margin-bottom-lg {margin-bottom:45px}
+.padding-bottom-lg {padding-bottom:45px}
+.margin-bottom-vlg {margin-bottom:75px}
+.margin-bottom-md {margin-bottom:40px}
+.margin-top-nm {margin-top:15px !important}
+.hd-perfect { font-size:20px;line-height:27px}
+.heading { margin-bottom:85px}
+.heading-advanced { margin-bottom:20px}
+.heading p { margin-top:12px}
+.heading-standard  { margin-bottom:15px}
+.heading h1 { margin-bottom:10px}
+.heading h2 { font-size:22px}
+
+/* icons */
+[class^="fa-"]::before, [class*=" fa-"]::before {
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 1em;
+	margin-left: 0.2em;
+	margin-right: 0.2em;
+	text-align: center;
+	text-decoration: inherit;
+	text-transform: none;
+	width: 1em;
+}
+.fa.big {
+	font-size: 65px
+}
+.fa.medium {
+	font-size: 26px;
+	padding-top:6px !important
+}
+.icon-image {
+    border-radius: 50%;
+    height: 100px;
+    padding-top: 16px;
+    text-align: center;
+    width: 100px;
+	font-size: 65px;
+    border: 2px solid #0191a9;
+    color:#0191a9 !important;
+	opacity:.8
+}
+.icon-image-default {
+    border: 2px solid #3e6d92;
+    color:#3e6d92 !important;
+	opacity:.9
+}
+.icon-green i { color: #BFFF00}
+
+/* section */
+.section { padding:85px 0 0 0; overflow:hidden}
+.section-standard { padding:50px;}
+.section-medium { padding:45px;}
+.section-standard h2 { font-size:19px; margin-top:25px}
+
+/*  box */
+.box div{
+	padding:15px
+}
+.box img {
+	width: 100%
+}
+.box h2 {
+	font-size: 28px;
+	text-transform: capitalize;
+	margin-bottom: 15px;
+}
+.box img {
+	border: 1px solid #F9F9F9
+}
+
+
+/* carousel */
+.carousel-caption {
+	z-index: 10;
+	left: 1%;
+	padding-bottom: 30px;
+	right: 1%;
+	text-shadow: none !important
+}
+.carousel-caption {
+	font-size: 20px;
+	line-height: 27px;
+	font-weight: normal
+}
+.carousel-caption h1 {
+	font-size: 50px
+}
+.carousel-caption h2 {
+	font-size: 20px
+}
+.carousel .item {
+	min-height: 250px;
+}
+.carousel-caption {
+	text-align: left
+}
+.carousel-control.right, .carousel-control.left {
+	background-image: none !important;
+}
+
+/* others */
+label { font-weight:normal}
+.let-us-do  h2 { font-size:20px; font-weight:300; line-height:30px}
+.let-us-do .container{ background:url(../img/let-us-do-the-job.jpg) no-repeat; background-position:right }
+.let-us-do .container{ min-height: 500px}
+.put-bg-c { background:url(../img/shake.jpg) no-repeat center; color:#222; font-weight:normal}
+
+form.pages-contact .form-control {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
+	border-color:#CCC;
+	box-shadow: none;
+	color:#222;
+	width:100%
+}
+form.pages-contact label { color:#222}
+.error-message { font-size:11px; color:#F00 !important; padding-left:10px}
+.error-message { padding-left:0}
+.modal-notification {
+	top: 28%
+}
+.modal-body {
+	background: #3e6d92;
+	text-align: center;
+	opacity: .9;
+}
+.long-paragraph p { font-size:14px; line-height:25px}
+.long-paragraph h3 {
+    font-size: 21px;
+	font-weight:300
+}
+
+/*header*/
+#header {
+	background-color: white;
+	box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+}
+/*nav*/
+.navbar-default {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	border: medium none;
+}
+.navbar {
+	margin-bottom: 0;
+}
+.navbar-nav > li > a {
+	display: block;
+	font-size: 1em;
+	font-weight: 300;
+	margin: 0;
+	outline: medium none;
+	padding-bottom: 11px;
+	padding-top: 11px;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: all 0.2s ease-out 0s;
+	vertical-align: middle;
+}
+.navbar-nav > li > a:hover i, .navbar-nav > li.active > a i {
+	color: #fff;
+}
+.navbar-nav > li > a i {
+	display: block;
+}
+.navbar-nav > li > a i {
+	color: #ccc;
+	font-size: 23px;
+	padding: 20px 0 10px;
+	text-align: center;
+}
+.navbar-nav > li > a {
+	height: 88px;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+.navbar-brand {
+	padding-left: 0;
+	padding-top: 30px;
+}
+.navbar-nav > li.divider {background:#FBFBFB;width:1px;height:88px}
+.navbar-nav .alert-danger {
+    background-color: #d9534f;
+    border-color: #ebccd1;
+    color:#FFF;
+    font-size: 12px;
+    left: 55px;
+    position: absolute;
+    top: 15px;
+}
+
+.navbar-nav .badge { 
+    padding: 3px 6px;
+}
+
+
+
+/* color */
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background: #3e6d92 none repeat scroll 0 0;
+	color: #fff;
+}
+body {
+	background: #fff none repeat scroll 0 0;
+	color: #fff;
+}
+a { color:#3e6d92}
+a:hover { text-decoration:none !important; opacity:.9}
+.color-red { color:#d9534f !important}
+.color-green { color:#5cb85c !important}
+.color-default { color:#222 !important}
+.color-primary { color:#0191A9 !important}
+.bg-main { background:#3E6D92}
+.bg-primary { background:#0191A9}
+.bg-secondary { background:#0094BA}
+.bg-light { background:#f7f7f7}
+.section h1,.section h2, .section h3 { color:#FFF}
+.heading h1, .heading h2{color: #222;}
+.heading p {color: #222;}
+.heading-standard p { margin:0 !important}
+.heading i.fa {
+	color:#3E6D92
+}
+.box div{
+	background-color: #3E6D92;
+	color: #FFF;
+}
+.box div.bg-light{
+	background-color: #f7f7f7 !important;
+	color:#666
+}
+.box div.bg-light h2 {
+    font-size: 28px;
+	color:#333;
+}
+
+
+.box-plain h2 { color:#222 }
+.box-plain div { background:none; color:#222 }
+.let-us-do h1, .let-us-do h2 { color:#222}
+.modal-body h2 { color:#FFF}
+.modal-footer button { color:#222;}
+.long-paragraph h3 { color:#333}
+
+/*footer*/
+footer {
+	background: #eee none repeat scroll 0 0;
+	color: #777;
+	padding: 44px 0;
+	font-size: 14px;
+}
+.footer-logo {
+	margin-bottom: 21px
+}
+footer h3 {
+	font-size: 16px;
+}
+.rounded {
+	background-color: #fff;
+	border: 2px solid #3e6d92;
+	color: #3e6d92;
+}
+.rounded {
+	border-radius: 50%;
+	display: block;
+	height: 40px;
+	padding-top: 11px;
+	text-align: center;
+	width: 40px;
+}
+.footer-bottom {
+	padding: 10px 22px 22px;
+}
+ul.social {
+	margin: 0;
+	padding: 0;
+	line-height: 1px
+}
+ul.social li {
+	float: right;
+	padding-left: 5px;
+}
+.footer-bottom .copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #999;
+	margin-top: 32px;
+}
+.footer h3 { margin-bottom:10px }
+
+/* iframe */
+iframe {
+    width: 828px;
+    height: 466px;
+    margin: 0 auto;
+    background-color: #777;
+	display:block
+}
+
+/*interactive */
+.interactive { color:#222; padding:40px 0 0 0; margin: 40px 0 40px 0}
+.interactive .icon { min-width:50px}
+.interactive h4 { font-size:15px; line-height:21px}
+.interactive small { color:#999; font-size:11px;}
+.interactive .content { min-height:70px}
+.interactive .heading-standard { margin-bottom:25px !important}
+.interactive .content h2.main-title a{ color:#333 !important}
+.interactive p { font-size:13px; margin-bottom:0px !important}
+.interactive img { width:100%}
+.replies { margin-top:25px; margin-bottom:150px}
+.replies .row { margin:20px 0 20px 0}
+/*paginator*/
+.paginator { margin-left:50px}
+.paginator .pagination{ font-size:12px; }
+.paginator .pagination.pull-right:first-child { display:block !important;float:left !important}
+/*contact us*/
+.pages-contact .error { font-size:11px; color:#F03 !important; padding-left:5px;}
+/*override*/
+.navbar-brand { height:100% !important}

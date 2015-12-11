@@ -1,0 +1,106 @@
+/* custom sizes */
+.w400px {
+	width: 400px !important
+}
+.w90pc {
+	width: 90% !important
+}
+.w100pc {
+	width: 100% !important
+}
+/* custom tables */
+.nice-tables, .nice-tables a {
+	font-size: 12px;
+}
+.nice-tables .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+	border-top: 1px solid #ddd;
+	line-height: 1.42857;
+	padding: 5px 8px;
+	vertical-align: middle;
+}
+.nice-tables .table > thead > tr > th.table-checkbox {
+	width: 2%;
+}
+.nice-tables .table > tbody > tr:hover {
+	background: #FFC
+}
+.nice-tables .table {
+	margin-bottom: 0px;
+}
+.nice-tables .table-bordered > thead > tr > th {
+	border-bottom-width: 1px;
+}
+.nice-tables .table-bordered > tbody > tr > th {
+	font-weight: normal
+}
+.nice-tables .panel-heading {
+	border-left: medium none;
+	border-radius: 0;
+	border-right: medium none;
+	border-top: medium none;
+	padding: 12px 15px;
+	position: relative;
+	border-bottom: 1px solid #cae1ef;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	padding: 10px 15px;
+}
+/* alert-modal */
+.alert-modal {
+	top: 45%
+}
+.alert-modal .modal-content {
+	border-radius: 0 !important;
+	border: 5px solid rgba(0, 0, 0, 0);
+	border-left: 0;
+	border-right: 0
+}
+/* nice menu */
+.nice-menu {
+	width: 18%;
+	border-right: 1px solid #dddddd;
+	box-shadow: 1px 6px 3px rgba(0, 0, 0, 0.1);
+	min-height:800px;
+	float:left;
+}
+.nice-menu .panel-group .panel {
+	border: 0 none;
+	border-radius: 0;
+}
+.nice-menu .panel-default {
+	border-top: 1px solid #ddd !important;
+	margin-top: 0 !important;
+}
+.nice-menu .fa:first-child {
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	padding: 2px 5px;
+	margin-right: 10px;
+	text-align: center;
+	width: 26px;
+}
+.nice-menu .fa:last-child {
+	float: right;
+	font-size: 12px;
+	line-height: 22px;
+	opacity: 0.7;
+}
+.nice-menu .panel-heading {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	border-bottom: 0 none;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	cursor: pointer;
+	padding: 6px 15px;
+}
+.nice-menu .panel-collapse .panel-body {
+	line-height: 8px;
+	padding-left: 54px;
+}
+.nice-menu .panel-heading:hover {
+	background: #F2F2F2
+}
+.nice-menu .panel-title {
+	font-size: 12px;
+	padding: 4px 0
+}
