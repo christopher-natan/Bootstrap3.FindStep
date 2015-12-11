@@ -1,4 +1,4 @@
-## Bootstrap Website Template
+## Findstep
 Bootstrap 3 responsive website template perfect for businesses, it is free to use and open source.
 
 #### Included
