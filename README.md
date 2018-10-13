@@ -1,4 +1,4 @@
-## Findstep
+## Bootstrap Findstep
 Bootstrap 3 responsive website template perfect for personal or business.
 
 #### Included
