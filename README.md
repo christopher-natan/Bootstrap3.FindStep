@@ -2,7 +2,7 @@
 Bootstrap 3 responsive website template perfect for personal or business.
 
 #### Included
-- Bootstrap v3.3.5 (http://getbootstrap.com)
+- Bootstrap v3.3.5
 - jQuery
 - Font Awesome 4.4.0
 
