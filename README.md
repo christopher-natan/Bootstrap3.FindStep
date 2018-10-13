@@ -1,5 +1,5 @@
 ## Findstep
-Bootstrap 3 responsive website template perfect for businesses, it is free to use and open source.
+Bootstrap 3 responsive website template perfect for personal or business.
 
 #### Included
 - Bootstrap v3.3.5 (http://getbootstrap.com)
@@ -7,7 +7,7 @@ Bootstrap 3 responsive website template perfect for businesses, it is free to us
 - Font Awesome 4.4.0
 
 #### Installation
- Create a clone to your desktop.
+Clone to your desktop.
 
 #### Live
 You can see the live website
