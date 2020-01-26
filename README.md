@@ -12,4 +12,4 @@ Clone to your desktop.
 
 #### Live
 You can see the live website
-[here](http://findstep.cmnworks.com/)
+[findstep.cmnworks.com](http://findstep.cmnworks.com)
