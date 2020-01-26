@@ -1,6 +1,6 @@
-## Bootstrap Findstep
+## Bootstrap3 Findstep
 Bootstrap 3 responsive website template perfect for personal or business.
-Open source.
+This is part of my own Roku Channel Maker web app.
 
 #### Included
 - Bootstrap v3.3.5
