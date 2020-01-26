@@ -1,15 +1,15 @@
-## Bootstrap3 Findstep
-Bootstrap 3 responsive website template perfect for personal or business.
-This is part of my own Roku Channel Maker web app.
+## Bootstrap3 FindStep Website Template
+With the help of Bootstrap 3, it made FindStep web design and development much faster and easier.
+If you decided to build your own business website the same with FindStep then you can fork or clone this repository.
 
-#### Included
+#### Included in this repository
 - Bootstrap v3.3.5
 - jQuery
 - Font Awesome 4.4.0
 
 #### Installation
-Clone to your desktop.
+Clone repository to your desktop
 
-#### Live
-You can see the live website
+#### FindStep Website
+You can see the actual FindStep website at
 [findstep.cmnworks.com](http://findstep.cmnworks.com)
