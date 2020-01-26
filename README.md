@@ -4,7 +4,7 @@ If you decided to build your own business website the same with FindStep then yo
 
 #### Included in this repository
 - Bootstrap v3.3.5
-- jQuery
+- jQuery library
 - Font Awesome 4.4.0
 
 #### Installation
