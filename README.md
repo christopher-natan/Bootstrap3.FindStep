@@ -10,6 +10,6 @@ If you decided to build your own business website the same with FindStep then yo
 #### Installation
 Clone repository to your desktop
 
-#### FindStep Website
+#### Actual Website
 You can see the actual FindStep website at
 [findstep.cmnworks.com](http://findstep.cmnworks.com)
