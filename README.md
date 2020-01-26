@@ -1,5 +1,6 @@
 ## Bootstrap Findstep
 Bootstrap 3 responsive website template perfect for personal or business.
+Open source.
 
 #### Included
 - Bootstrap v3.3.5
@@ -11,4 +12,4 @@ Clone to your desktop.
 
 #### Live
 You can see the live website
-[here](http://www.findstep.com)
+[here](http://findstep.cmnworks.com/)
