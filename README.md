@@ -1,3 +1,5 @@
+Note: I no longer support for this CSS template.
+
 ## Bootstrap3 FindStep Website Template
 With the help of Bootstrap 3, it made FindStep web design and development much faster and easier.
 If you decided to build your own business website the same with FindStep then you can fork or clone this repository.
